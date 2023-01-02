@@ -2,7 +2,7 @@
 
 # [Live Demo](https://ccolds.github.io/mobile-menu/)
 
-![Rudder Navigation](https://media.discordapp.net/attachments/249554120514600960/1059043814049857546/rudder-navigation.gif)
+![Rudder Navigation](rudder-navigation.gif)
 
 # Description
 
